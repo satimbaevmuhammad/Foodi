@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-import React from "react"
+  import React from "react"
 
 function App() {
 
@@ -15,7 +14,7 @@ function App() {
 }
 
 export default App
-=======
+
 import React from 'react';
 import cat from '../public/assets/icons/cat.svg';
 import fast from '../public/assets/icons/fast.svg';
@@ -81,4 +80,3 @@ const CulinaryServicesLanding = () => {
 };
 
 export default CulinaryServicesLanding;
->>>>>>> 7b0306e (Birinchi yuklash)
